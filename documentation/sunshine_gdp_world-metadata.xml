@@ -6,7 +6,7 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>Influence of sunshine on GDP per capita - World heatmap</dc:title>
 <dc:creator>Filip Darmanovic (https://orcid.org/0000-0002-2239-1634)</dc:creator>
 <dc:subject>Sunshine GDP correlation</dc:subject>
-<dc:description>Two vectorized world maps color-coded according to average sunshine hours and GDP per capita.</dc:description>
+<dc:description>Two vectorized world maps color-coded according to average sunshine hours and mean GDP per capita.</dc:description>
 <dc:date>15.04.2021</dc:date>
 <dc:type>Image</dc:type>
 <dc:format>application/pdf</dc:format>
