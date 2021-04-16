@@ -1,0 +1,54 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "gdp_sunshine.csv",
+    "dialect": {
+        "delimiter": ",",
+        "encoding": "ascii",
+        "quoteChar": "\""
+    },
+    "dc:title": "Statistical descriptors of GDP per capita combined with yearly averages of hours of sunshine per country",
+    "dc:description": "Descriptors like min, max, median of GDP per capita for many countries from the 1960s up to 2019, combined with average yearly sunshine hours extrapolated from readings in some cities of those countries.",
+    "dc:creator": "Filip Darmanovic (https://orcid.org/0000-0002-2239-1634)",
+    "dc:date": "16.04.2021",
+    "dc:format": "text/csv",
+    "dc:type": "Dataset",
+    "dc:coverage": "1960 - 2019",
+    "dc:source": [
+        "https://data.world/makeovermonday/2019w44",
+        "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD (Accessed on 10.04.2021))",
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ (v4.1.0)"
+    ],
+    "dc:identifier": "TODO",
+    "dc:rights": "CC BY-SA",
+    "dc:relation":[
+        "TODO"
+    ],
+    "dc:language": "English",
+      "columns": [{
+        "titles": "Country Name",
+        "dc:description": "The country's official name in English."
+      },{
+        "titles": "Country Code",
+        "dc:description": "The ISO Aplpha-3 code for a country, in uppercase."
+      },{
+        "titles": "min",
+        "dc:description": "The minimum of all recorder GDP per Capita values",
+        "datatype": "decimal"
+      },{
+        "titles": "max",
+        "dc:description": "The maximum of all recorder GDP per Capita values",
+        "datatype": "decimal"
+      },{
+        "titles": "latest year",
+        "dc:description": "The year of the newest GDP per Capita data entry",
+        "datatype": "integer"
+      },{
+        "titles": "latest GDP",
+        "dc:description": "The latest recorded GDP per capita entry",
+        "datatype": "decimal"
+      },{
+        "titles": "Yearly sunshine hours",
+        "dc:description": "The average yearly sunshine hours, taken as average from different cities' readings.",
+        "datatype": "decimal"
+      }]
+  }

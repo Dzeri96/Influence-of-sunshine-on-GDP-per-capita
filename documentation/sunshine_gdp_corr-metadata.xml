@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Influence of sunshine on GDP per capita - Column correlation plot</dc:title>
+<dc:creator>Filip Darmanovic (https://orcid.org/0000-0002-2239-1634)</dc:creator>
+<dc:subject>Sunshine GDP correlation</dc:subject>
+<dc:description>A vectorized visualization of Pearson correlation coefficients accompanying the tabular data artifact of the experiment in the title.</dc:description>
+<dc:date>15.04.2021</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>TODO CHANGE</dc:identifier>
+<dc:source>https://data.world/makeovermonday/2019w44</dc:source>
+<dc:source>https://data.worldbank.org/indicator/NY.GDP.PCAP.CD (Accessed on 10.04.2021))</dc:source>
+<dc:source>https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ (v4.1.0)</dc:source>
+<dc:language>English</dc:language>
+<dc:relation>TODO</dc:relation>
+<dc:coverage>1960 - 2019</dc:coverage>
+<dc:rights>CC BY-SA</dc:rights>
+
+</metadata>

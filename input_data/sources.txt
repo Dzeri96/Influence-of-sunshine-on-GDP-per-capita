@@ -1,3 +1,0 @@
-https://stats.oecd.org/
-https://www.ncei.noaa.gov/data/gsoy/archive/
-https://data.worldbank.org/indicator/NY.GDP.PCAP.CD - Ovdje si obrisao prvih 6 linija!
