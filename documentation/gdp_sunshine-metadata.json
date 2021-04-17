@@ -18,10 +18,11 @@
         "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD (Accessed on 10.04.2021))",
         "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ (v4.1.0)"
     ],
-    "dc:identifier": "TODO",
+    "dc:identifier": "10.5281/zenodo.4697778",
     "dc:rights": "CC BY-SA",
-    "dc:relation":[
-        "TODO"
+    "dc:relation": [
+        "10.5281/zenodo.4697855",
+        "10.5281/zenodo.4697850"
     ],
     "dc:language": "English",
       "columns": [{

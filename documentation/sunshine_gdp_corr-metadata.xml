@@ -10,12 +10,12 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:date>15.04.2021</dc:date>
 <dc:type>Image</dc:type>
 <dc:format>application/pdf</dc:format>
-<dc:identifier>TODO CHANGE</dc:identifier>
+<dc:identifier>10.5281/zenodo.4697850</dc:identifier>
 <dc:source>https://data.world/makeovermonday/2019w44</dc:source>
 <dc:source>https://data.worldbank.org/indicator/NY.GDP.PCAP.CD (Accessed on 10.04.2021))</dc:source>
 <dc:source>https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ (v4.1.0)</dc:source>
 <dc:language>English</dc:language>
-<dc:relation>TODO</dc:relation>
+<dc:relation>10.5281/zenodo.4697778</dc:relation>
 <dc:coverage>1960 - 2019</dc:coverage>
 <dc:rights>CC BY-SA</dc:rights>
 

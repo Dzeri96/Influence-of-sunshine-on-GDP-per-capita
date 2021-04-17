@@ -2,6 +2,9 @@
 
 This paper explores the hypothesis that dreary weather discourages people from going outside and in turn makes them more productive. Likewise, that beautiful weather outside distracts people from their work, which should reflect in a country's GDP per capita. We use some basic statistical indicators to show that further exploration of this topic is a valid research path, but better-quality weather data is needed to make conclusions.
 
+## Authors
+[Filip Darmanovic](https://orcid.org/0000-0002-2239-1634)
+
 ## Folder structure
 - 📂 `documentation` - Documentation, Metadata etc.
 - 📂 `input_data` - Raw input datasets
